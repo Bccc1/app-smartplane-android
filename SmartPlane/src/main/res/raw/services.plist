@@ -6,6 +6,8 @@
 	<integer>-5</integer>
 	<key>rssi low</key>
 	<integer>-55</integer>
+	<key>device name</key>
+	<string>SmartPlane II</string>
 	<key>Services</key>
 	<dict>
 		<key>sml1test</key>
@@ -53,7 +55,7 @@
 		<key>smartplane</key>
 		<dict>
 			<key>UUID</key>
-			<string>75b64e51-f171-4ed1-921a-476090d80ba7</string>
+			<string>75b64e51-e171-4ed1-921a-476090d80ba7</string>
 			<key>Primary</key>
 			<true/>
 			<key>DriverClass</key>
